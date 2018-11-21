@@ -1,4 +1,5 @@
 # vuecli3
+vue-cli3构建项目以及完成基本配置详见： [vue-cli3初始化项目](https://www.cnblogs.com/XHappyness/p/9989693.html)
 
 ## Project setup
 ```
@@ -14,16 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
