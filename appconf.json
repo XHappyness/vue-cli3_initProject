@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "serverUrl": "http://localhost:57156/"
+  },
+  "build": {
+    "serverUrl": "http://blackwidow.gridsumdissector.com/",
+    "outputDir": "../../dist/build",                     
+    "productId": "47aec227-0b34-46d6-bd15-8ac3290c456d"
+  },
+  "alpha": {
+    "serverUrl": "http://blackwidow-test.gridsumdissector.com/",
+    "outputDir": "../../dist/alpha",
+    "productId": "67bd9010-7fd0-4dd5-ae38-c68c6de97b15"
+  }
+}
